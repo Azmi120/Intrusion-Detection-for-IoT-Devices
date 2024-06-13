@@ -21,6 +21,6 @@ We evaluated the accuracy, precision, recall, time taken as our performance metr
 ## Proposed Multi Task learning Model
 mlt-bot-iot.ipynb
 
-The model architecture can be found <img src="[https://github.com/user/repo/blob/main/output.jpg](https://github.com/Azmi120/Intrusion-Detection-for-IoT-Devices/blob/main/Multi-task%20Model%20Architecture)" align="center" height="350" width="600"/>
+The model architecture can be found <img src="[[https://github.com/user/repo/blob/main/output.jpg](https://github.com/Azmi120/Intrusion-Detection-for-IoT-Devices/blob/main/Multi-task%20Model%20Architecture)](https://github.com/Azmi120/Intrusion-Detection-for-IoT-Devices/blob/main/Model%20Architecture.png)" align="center" height="350" width="600"/>
 
 
