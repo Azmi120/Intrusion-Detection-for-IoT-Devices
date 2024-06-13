@@ -19,8 +19,7 @@ We use Decision Tree, Naive Bayes, K-Nearest Neighbors, Logistic Regression, Ran
 We evaluated the accuracy, precision, recall, time taken as our performance metrics.
 
 ## Proposed Multi Task learning Model
-mlt-bot-iot.ipynb
-
-The model architecture can be found <img src="https://github.com/Azmi120/Intrusion-Detection-for-IoT-Devices/blob/main/Model%20Architecture.png" align="center"/>
+The architecture of the model proposed in the mlt-bot-iot.ipynb notebook is outlined below:
+<img src="https://github.com/Azmi120/Intrusion-Detection-for-IoT-Devices/blob/main/Model%20Architecture.png" align="center"/>
 
 
