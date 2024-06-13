@@ -1,15 +1,13 @@
 ## Data Preprocessing
-Link: [Data Preprocessing File](https://github.ncsu.edu/mjakari/engr-ALDA-Fall2023-H6/blob/main/Project/pre-processing.py)
+pre-processing.py
 
 ## Feature Engineering
-Link: [PCA Feature Engineering](https://github.ncsu.edu/mjakari/engr-ALDA-Fall2023-H6/blob/main/Project/pca.ipynb)
+We applied Principal Component Analysis (PCA) and Normalized Gain for the best feature selections. The code can be found in pca.ipynb.
 
 ## Baseline Model
-This notebook reads in the data, resamples the categories and chooses the selected features.
+initial-ml.ipynb: This notebook reads in the data, resamples the categories and chooses the selected features from the feature engineering phase.
 It also runs the 2 simple NN's and the other 7 ML models.
 We also look at the performance metrics such as accuracy, precision, recall, time taken. 
 
-Link: [Initial ML](https://github.ncsu.edu/mjakari/engr-ALDA-Fall2023-H6/blob/main/Project/initial-ml.ipynb)
-
 ## Multi Task Model
-Link: [Multitask Model](https://github.ncsu.edu/mjakari/engr-ALDA-Fall2023-H6/blob/main/Project/mlt-bot-iot.ipynb)
+mlt-bot-iot.ipynb: 
